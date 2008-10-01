@@ -1,0 +1,8 @@
+This is another little script that downloads GPS points from
+www.instamapper.com and converts them to a GPX stream. You
+have to use the site to find the API key for your device under
+Manage devices -> Configure API access.
+
+Once you have an API key, you can pass that to the script and it
+will spit out GPX to you.
+
